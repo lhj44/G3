@@ -1,3 +1,1 @@
-i can type
-
-I can, too.
+print("Hi")
